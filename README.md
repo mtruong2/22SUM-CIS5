@@ -1,1 +1,1 @@
-# CSC-CIS5
+# CIS5
