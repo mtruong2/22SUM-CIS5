@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=cpptemplate
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/cpptemplate
+CND_ARTIFACT_NAME_Debug=binary_search_and_selection_sort
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/binary_search_and_selection_sort
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=cpptemplate.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/cpptemplate.tar
+CND_PACKAGE_NAME_Debug=binarysearchandselectionsort.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/binarysearchandselectionsort.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=cpptemplate
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/cpptemplate
+CND_ARTIFACT_NAME_Release=binary_search_and_selection_sort
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/binary_search_and_selection_sort
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=cpptemplate.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/cpptemplate.tar
+CND_PACKAGE_NAME_Release=binarysearchandselectionsort.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/binarysearchandselectionsort.tar
 #
 # include compiler specific variables
 #
